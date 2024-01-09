@@ -1,3 +1,7 @@
+<h1 align="center">
+  Welcome To My Space
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="500"/>
 </div>
@@ -13,8 +17,8 @@
   </a>
 </div>
 <h1 align="center">
-  Welcome To My Space
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Great Things Take Time
+  <img src="https://media.giphy.com/media/ehz3LfVj7NvpY8jYUY/giphy.gif" width="30px"/>
 </h1>
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmQyeTVxdGxzMW1hdnF3OGZtcGh5bjVqYTU2MHl3cWtwbDA3NDlyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300"/>
