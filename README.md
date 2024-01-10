@@ -40,7 +40,7 @@ I'm interested in Web development, DevOps, Software Engineering and Artificial I
 
 ---
 ### :woman_technologist: About Me :
- I am a Full Stack Developer Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt.
+ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a Full Stack Developer Student from Egypt.
  
  :telescope: I’m currently studing Software Engineering for building web applications.
 
