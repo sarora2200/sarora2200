@@ -1,8 +1,6 @@
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sarah+Abdeldayem!;" />
 </h1>
-
 
 <h1 align="center">
   Welcome To My Space
@@ -11,7 +9,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="500"/>
 </div>
-
 
 <h1 align="center">
   Great Things Take Time
@@ -36,22 +33,22 @@
 
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Full+Stack+Software+Engineering+Student)](https://git.io/typing-svg)
 
-I'm interested in Web development, DevOps, Software Engineering and Artificial Intelligence<br>
+I'm interested in Web development, DevOps, Software Engineering, Data Science, and Artificial Intelligence<br>
 
 ---
 ### :woman_technologist: About Me :
- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a Full Stack Developer Student from Egypt.
+ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a Full Stack Developer Student and Data Science Enthusiast from Egypt.
  
- :telescope: I’m currently studing Software Engineering for building web applications.
+ :telescope: I’m currently studying Software Engineering, Data Science, and Data Analysis to build impactful solutions.
 
  :seedling: Exploring Technical Content Writing.
 
- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
+ :zap: In my free time, I solve problems on GeeksforGeeks, analyze data, and read tech articles.
 
 ---
-### My Stack
+### My Skills
 
+#### Programming Languages and Tools:
 <p align="center">
 <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"  height="40" style="vertical-align:top; margin:4px">
 <a href="https://github.com/hardope target="_blank" rel="noreferrer"> 
@@ -73,26 +70,28 @@ I'm interested in Web development, DevOps, Software Engineering and Artificial I
 <img src="https://user-images.githubusercontent.com/76790341/187142409-fa9b3fc9-8e08-4870-b4d9-a630a3505339.png" height="40" style="vertical-align:top; margin:4px">
 <img src="https://github.com/hardope/hardope/assets/76790341/66b41f49-af77-496f-ae72-dbd8dcbfa880" height="50" style="vertical-align:top; margin:4px">
 <img src="https://github.com/hardope/hardope/assets/76790341/425bdf25-ee62-40f0-a5c9-2c917f1ee9d2" height="50" style="vertical-align:top; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" height="40" style="vertical-align:top; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Power_BI_logo.svg" alt="Power BI" height="40" style="vertical-align:top; margin:4px">
 </p>
-                                                                                                                                                    
+
+#### Skills:
+- **Data Science**: Exploratory Data Analysis (EDA), Machine Learning, Data Visualization.
+- **Data Analysis**: SQL, Python (pandas, numpy, matplotlib, seaborn), Power BI.
+- **Web Development**: HTML, CSS, JavaScript, React, Node.js.
+- **DevOps**: Continuous Integration, Deployment, and Automation.
+- **Collaboration**: Effective team collaboration using Git, GitHub, and Agile methodologies.
+- **Problem-Solving**: Strong aptitude for logical reasoning and tackling complex challenges.
+
 ---
 
 ### Contact Me: <br>
-**E-mail** sarora2200@gmail.com<br>
-**Website** https://sarora2200.github.io/SARAH.ABDELDAYEM/
+**E-mail**: sarora2200@gmail.com<br>
+**Website**: [My Portfolio](https://sarora2200.github.io/SARAH.ABDELDAYEM/)<br>
+**LinkedIn**: [Sarah Abdeldayem](https://www.linkedin.com/in/sarah-ahmed-078868151/)<br>
 
 ---
 
 <img height="200em" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=sarora2200&count_private=true&theme=default&border_radius=10" alt="streak stats"/>
-<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sarora2200"/>
-<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sarora2200&theme=github"/>
-</div>
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?user=sarora2200&theme=default&count_private=true" alt="Top Languages"/>
 
-<div align="center">
-<a href='https://ko-fi.com/sarora2200' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
-
-
-- ---
-
-
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?user=sarora2200&theme=default&count_private=true" alt="Most Commit Language"/>
