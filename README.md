@@ -18,7 +18,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmQyeTVxdGxzMW1hdnF3OGZtcGh5bjVqYTU2MHl3cWtwbDA3NDlyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300"/>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/sarah-ahmed-078868151/">
+  <a href="https://www.linkedin.com/in/sarah-a-abdeldayem/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.youtube.com/@Sarah_Abdeldayem">
