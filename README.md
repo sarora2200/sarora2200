@@ -77,27 +77,13 @@ I'm interested in Web development, DevOps, Software Engineering, Data Science, a
 
 ## Skills
 
-### **Data Science**
-- Exploratory Data Analysis (EDA), Machine Learning, and Data Visualization.  
-- Tools: Python (pandas, numpy, matplotlib, seaborn), Power BI.
+### **Data Science**: 🧠 Exploratory Data Analysis (EDA), Machine Learning, and Data Visualization using Python (pandas, numpy, matplotlib, seaborn) and Power BI.  
+### **Data Analysis**: 📊 SQL, Python (pandas, numpy), Advanced Query Optimization, and ETL Pipelines for efficient data processing.  
+### **Web Development**: 🌐 **Frontend**: HTML, CSS, JavaScript, React for responsive and dynamic interfaces; **Backend**: Node.js, Express.js, MySQL, PostgreSQL, and RESTful API development.  
+### **DevOps**: 🛠️ Docker, Kubernetes, CI/CD pipelines, and automation tools for streamlined deployment and scaling.  
+### **Collaboration**: 🤝 Expertise in Git/GitHub for version control, Agile project management, and cross-functional teamwork.  
+### **Problem-Solving**: 💡 Strong analytical and creative problem-solving skills for addressing complex challenges.
 
-### **Data Analysis**
-- SQL, Python, Advanced Query Optimization, ETL Pipelines.
-
-### **Web Development**
-- **Frontend**: HTML, CSS, JavaScript, React.  
-- **Backend**: Node.js, Express.js, SQL (MySQL, PostgreSQL).  
-- Full-stack integrations with RESTful APIs.
-
-### **DevOps**
-- Docker, Kubernetes, Continuous Integration & Deployment (CI/CD), Automation.
-
-### **Collaboration**
-- Effective team player experienced in Git/GitHub workflows.  
-- Agile project management and cross-functional teamwork.
-
-### **Problem-Solving**
-- Strong logical reasoning and creativity in tackling complex challenges.
 
 
 ### Contact Me: <br>
