@@ -86,8 +86,8 @@ I'm interested in Web development, DevOps, Software Engineering, Data Science, a
 
 ### Contact Me: <br>
 **E-mail**: sarora2200@gmail.com<br>
-**Website**: [My Portfolio](https://sarora2200.github.io/SARAH.ABDELDAYEM/)<br>
-**LinkedIn**: [Sarah Abdeldayem](https://www.linkedin.com/in/sarah-ahmed-078868151/)<br>
+**Website**: [My Portfolios](https://sarora2200.github.io/SARAH.ABDELDAYEM/)(https://sarora2200.github.io/SARAH_ABDELDAYEM/)<br>
+**LinkedIn**: [Sarah Abdeldayem](https://www.linkedin.com/in/sarah-a-abdeldayem/)<br>
 
 ---
 
