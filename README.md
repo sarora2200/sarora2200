@@ -91,8 +91,13 @@ I'm interested in Web development, DevOps, Software Engineering, Data Science, a
 
 ### Contact Me: <br>
 **E-mail**: sarora2200@gmail.com<br>
-**Websites**: [Portfolio: Software_Engineering](https://sarora2200.github.io/SARAH.ABDELDAYEM/)<br>, [Portfolio: Data_Science](https://sarora2200.github.io/SARAH_ABDELDAYEM/)<br>
+**Websites**: [Software_Engineering](https://sarora2200.github.io/SARAH.ABDELDAYEM/)<br>, [Data_Science](https://sarora2200.github.io/SARAH_ABDELDAYEM/)<br>
 **LinkedIn**: [Sarah Abdeldayem](https://www.linkedin.com/in/sarah-a-abdeldayem/)<br>
+
+### Contact Me: <br>
+**E-mail**: sarora2200@gmail.com<br>
+**Websites**: <a href="https://sarora2200.github.io/SARAH.ABDELDAYEM/" target="_blank">Software_Engineering</a>, <a href="https://sarora2200.github.io/SARAH_ABDELDAYEM/" target="_blank">Data_Science</a><br>
+**LinkedIn**: <a href="https://www.linkedin.com/in/sarah-a-abdeldayem/" target="_blank">Sarah Abdeldayem</a><br>
 
 ---
 
