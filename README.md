@@ -1,7 +1,7 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarora2200" alt="sarora2200"> </p>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sarah+Abdeldayem!;" />
 </h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarora2200" alt="sarora2200"> </p>
 <h1 align="center">
   Welcome To My Space
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
