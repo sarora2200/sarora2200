@@ -33,6 +33,9 @@
 
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Full+Stack+Software+Engineer;Data+Science+Enthusiast;Machine+Learning+Practitioner)](https://git.io/typing-svg)
 
+<div align="center">
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Full+Stack+Software+Engineer;Data+Science+Enthusiast;Machine+Learning+Practitioner)](https://git.io/typing-svg)
+</div>
 
 
 
