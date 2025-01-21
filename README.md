@@ -95,15 +95,6 @@ I'm passionate about Software Engineering and Data Science, with expertise in We
 **Websites**: <a href="https://sarora2200.github.io/SARAH.ABDELDAYEM/" target="_blank">Software_Engineering</a>, <a href="https://sarora2200.github.io/SARAH_ABDELDAYEM/" target="_blank">Data_Science</a><br>
 **LinkedIn**: <a href="https://www.linkedin.com/in/sarah-a-abdeldayem/" target="_blank">Sarah Abdeldayem</a><br>
 
-### Contact Me: <br>
-**E-mail**: <a href="mailto:sarora2200@gmail.com">sarora2200@gmail.com</a><br>
-**Websites**: 
-<a href="https://sarora2200.github.io/SARAH.ABDELDAYEM/" target="_blank" style="text-decoration: none; color: #0073e6;">Software Engineering</a>, 
-<a href="https://sarora2200.github.io/SARAH_ABDELDAYEM/" target="_blank" style="text-decoration: none; color: #0073e6;">Data Science</a><br>
-**LinkedIn**: <a href="https://www.linkedin.com/in/sarah-a-abdeldayem/" target="_blank" style="text-decoration: none; color: #0073e6;">Sarah Abdeldayem</a><br>
-
-
-
 ---
 
 <img height="200em" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=sarora2200&count_private=true&theme=default&border_radius=10" alt="streak stats"/>
