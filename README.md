@@ -31,7 +31,8 @@
 
  
 
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Full+Stack+Software+Engineering+Student)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Full+Stack+Software+Engineering+Student;Data+Science+Enthusiast;Machine+Learning+Practitioner)](https://git.io/typing-svg)
+
 
 I'm interested in Web development, DevOps, Software Engineering, Data Science, and Artificial Intelligence<br>
 
