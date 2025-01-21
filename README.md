@@ -35,7 +35,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=comfortaa&color=016EEA&size=24&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Full+Stack+Software+Engineer;Data+Science+Enthusiast;Machine+Learning+Practitioner;" />
 </p>
 
-I'm interested in Web development, DevOps, Software Engineering, Data Science, and Artificial Intelligence<br>
+I'm passionate about Software Engineering and Data Science, with expertise in Web Development, DevOps, and Artificial Intelligence.
+<br>
 
 ---
 ### :woman_technologist: About Me :
