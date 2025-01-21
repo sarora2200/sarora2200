@@ -72,8 +72,7 @@ I'm interested in Web development, DevOps, Software Engineering, Data Science, a
   <img src="https://user-images.githubusercontent.com/76790341/187142409-fa9b3fc9-8e08-4870-b4d9-a630a3505339.png" alt="PostgreSQL" height="40" style="margin:4px">
   <img src="https://github.com/hardope/hardope/assets/76790341/66b41f49-af77-496f-ae72-dbd8dcbfa880" alt="Docker" height="50" style="margin:4px">
   <img src="https://github.com/hardope/hardope/assets/76790341/425bdf25-ee62-40f0-a5c9-2c917f1ee9d2" alt="Kubernetes" height="50" style="margin:4px">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" height="40" style="margin:4px">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Power_BI_logo.svg" alt="Power BI" height="40" style="margin:4px">
+  <img src="https://logos-world.net/power-bi-logo/" alt="Power BI" height="40" style="margin:4px">
 </p>
 
 ## Skills
