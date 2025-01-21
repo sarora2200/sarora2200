@@ -40,13 +40,13 @@ I'm passionate about Software Engineering and Data Science, with expertise in We
 
 ---
 ### :woman_technologist: About Me :
- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a Full Stack Developer Student and Data Science Enthusiast from Egypt.
+ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a Full Stack Developer and Data Science Enthusiast from Egypt.
  
- :telescope: I’m currently studying Software Engineering, Data Science, and Data Analysis to build impactful solutions.
+ :telescope: I’ve graduated in Software Engineering, Data Science, and Data Analysis, focusing on creating impactful solutions.
 
- :seedling: Exploring Technical Content Writing.
+ :seedling: Exploring opportunities in Technical Content Writing.
 
- :zap: In my free time, I solve problems on GeeksforGeeks, analyze data, and read tech articles.
+ :zap: In my free time, I solve problems on GeeksforGeeks, analyze data, and read tech articles to stay updated.
 
 ---
 # My Skills
@@ -94,6 +94,15 @@ I'm passionate about Software Engineering and Data Science, with expertise in We
 **E-mail**: sarora2200@gmail.com<br>
 **Websites**: <a href="https://sarora2200.github.io/SARAH.ABDELDAYEM/" target="_blank">Software_Engineering</a>, <a href="https://sarora2200.github.io/SARAH_ABDELDAYEM/" target="_blank">Data_Science</a><br>
 **LinkedIn**: <a href="https://www.linkedin.com/in/sarah-a-abdeldayem/" target="_blank">Sarah Abdeldayem</a><br>
+
+### Contact Me: <br>
+**E-mail**: <a href="mailto:sarora2200@gmail.com">sarora2200@gmail.com</a><br>
+**Websites**: 
+<a href="https://sarora2200.github.io/SARAH.ABDELDAYEM/" target="_blank" style="text-decoration: none; color: #0073e6;">Software Engineering</a>, 
+<a href="https://sarora2200.github.io/SARAH_ABDELDAYEM/" target="_blank" style="text-decoration: none; color: #0073e6;">Data Science</a><br>
+**LinkedIn**: <a href="https://www.linkedin.com/in/sarah-a-abdeldayem/" target="_blank" style="text-decoration: none; color: #0073e6;">Sarah Abdeldayem</a><br>
+
+
 
 ---
 
