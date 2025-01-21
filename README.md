@@ -108,6 +108,13 @@ I'm interested in Web development, DevOps, Software Engineering, Data Science, a
 ---
 
 <img height="200em" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=sarora2200&count_private=true&theme=default&border_radius=10" alt="streak stats"/>
-<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?user=sarora2200&theme=default&count_private=true" alt="Top Languages"/>
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sarora2200"/>
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sarora2200&theme=github"/>
+</div>
 
-<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?user=sarora2200&theme=default&count_private=true" alt="Most Commit Language"/>
+<div align="center">
+<a href='https://ko-fi.com/sarora2200' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div>
+
+
+- ---
